@@ -1,0 +1,5 @@
+c:\users\irina\documents\visual studio 2010\Projects\IT_Cint\IT_Cint\bin\IT_Cint.dll
+c:\users\irina\documents\visual studio 2010\Projects\IT_Cint\IT_Cint\bin\IT_Cint.pdb
+c:\users\irina\documents\visual studio 2010\Projects\IT_Cint\IT_Cint\obj\Debug\ResolveAssemblyReference.cache
+c:\users\irina\documents\visual studio 2010\Projects\IT_Cint\IT_Cint\obj\Debug\IT_Cint.dll
+c:\users\irina\documents\visual studio 2010\Projects\IT_Cint\IT_Cint\obj\Debug\IT_Cint.pdb
