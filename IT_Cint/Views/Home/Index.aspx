@@ -15,7 +15,7 @@
         $(document).ready(function () {
             var map = new GMap2($("#map").get(0));
             var loc = new GLatLng(60, 18);
-            map.setCenter(loc, 8);
+            map.setCenter(loc, 18);
 
             // setup 10 random points
             var bounds = map.getBounds();
