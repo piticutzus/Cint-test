@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Web;
 using System.Web.Mvc;
+using IT_Cint.Models;
 
 namespace IT_Cint.Controllers
 {
@@ -11,9 +12,13 @@ namespace IT_Cint.Controllers
     {
         public ActionResult Index()
         {
-            ViewData["Message"] = "Welcome to ASP.NET MVC!";
+           // ViewData["Message"] = "Welcome to ASP.NET MVC!";
 
-            return View();
+            var dataContext = new PanelistsDataContext();
+            var panelists = from p in dataContext.Panelists
+                            select p;
+
+            return View(panelists);
         }
 
         public ActionResult About()
