@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 /*/*.user           #User specific solution and project settings
 /*/*.suo
 /*/*.sln.cache
@@ -12,4 +13,15 @@ TestResults/*   #MSTest result files
 /TestResults/   #MSTest result files
 /TestResults/*   #MSTest result files
 /*/*.pdb
+=======
+*.com
+*.class
+*.dll
+*.exe
+*.pdb
+*.dll.config
+*.cache
+*.suo
+
+>>>>>>> b9ae3b6b641c2cfe5f8734ab7d538bf30b9b4ac3
 
