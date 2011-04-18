@@ -1,1 +1,2 @@
 c:\users\irina\documents\visual studio 2010\Projects\IT_Cint\IT_Cint.Tests\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Irina\Documents\Visual Studio 2010\Projects\IT_Cint\Cint-test\IT_Cint.Tests\obj\Debug\ResolveAssemblyReference.cache

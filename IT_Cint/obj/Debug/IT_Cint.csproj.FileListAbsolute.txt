@@ -3,3 +3,8 @@ c:\users\irina\documents\visual studio 2010\Projects\IT_Cint\IT_Cint\bin\IT_Cint
 c:\users\irina\documents\visual studio 2010\Projects\IT_Cint\IT_Cint\obj\Debug\ResolveAssemblyReference.cache
 c:\users\irina\documents\visual studio 2010\Projects\IT_Cint\IT_Cint\obj\Debug\IT_Cint.dll
 c:\users\irina\documents\visual studio 2010\Projects\IT_Cint\IT_Cint\obj\Debug\IT_Cint.pdb
+C:\Users\Irina\Documents\Visual Studio 2010\Projects\IT_Cint\Cint-test\IT_Cint\bin\IT_Cint.dll
+C:\Users\Irina\Documents\Visual Studio 2010\Projects\IT_Cint\Cint-test\IT_Cint\bin\IT_Cint.pdb
+C:\Users\Irina\Documents\Visual Studio 2010\Projects\IT_Cint\Cint-test\IT_Cint\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Irina\Documents\Visual Studio 2010\Projects\IT_Cint\Cint-test\IT_Cint\obj\Debug\IT_Cint.dll
+C:\Users\Irina\Documents\Visual Studio 2010\Projects\IT_Cint\Cint-test\IT_Cint\obj\Debug\IT_Cint.pdb
