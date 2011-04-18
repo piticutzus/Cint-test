@@ -1,4 +1,5 @@
 ﻿#main 
+<<<<<<< HEAD
         {
             float: left;
             width: 90%;
@@ -46,3 +47,58 @@
             width:75px; 
             
          }
+=======
+{
+    float: left;
+    width: 90%;
+    margin: 0 auto;
+    }
+        
+#mapContainer 
+{
+    width: 700px;
+    height: 500px;
+}
+
+#map  
+{
+    width:100%; 
+    height:100%;
+    border: 1px solid blue;
+    padding: 5px;
+    background: #fff; 
+}
+        
+#list  
+{ 
+    width:200px; 
+    background:#eee; 
+    list-style:none; 
+    padding:0; 
+    float: left;
+    margin: 0 5px;
+} 
+        
+#list li  
+{
+    padding:10px; 
+} 
+        
+#list li:hover  
+{
+    background: #5C87B2; 
+    color:#fff; 
+    cursor:pointer; 
+    cursor:hand; 
+}
+        
+#message  
+{
+    position:absolute; 
+    padding:10px; 
+    background:#555; 
+    color:#fff; 
+    width:75px; 
+            
+}
+>>>>>>> d9cb666cb2d456be0bb8e680fb4fe7ab5724c1c2
